@@ -1,2 +1,2 @@
 # pubspace
-Public Space
+Public space for general development, demonstration, and knowledge transfer.
